@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61398520015",
+    "project_id": "wmpfinalexam",
+    "storage_bucket": "wmpfinalexam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61398520015:android:89bd126755d3b635b127ba",
+        "android_client_info": {
+          "package_name": "com.example.wmp_final_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtb43N8MB_XdHVmUIVt5X5nuY5rVs4j0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
